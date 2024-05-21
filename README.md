@@ -11,7 +11,8 @@ Welcome to the Machine Learning Cohort! This README provides an overview of the 
 
 ### Days 3-4: Supervised Learning - Regression
 - **Topics**: Introduction to regression
-- **Subtopics**: Linear regression theory and implementation, Polynomial regression
+- **Subtopics**: Linear regression theory and implementation, Polynomial regression, logistic regression
+- **Mini Project**: Predicting Student's Placement
 - **Mini Project**: Predicting Student Exam Scores
 
 ### Days 5-6: Supervised Learning - Classification

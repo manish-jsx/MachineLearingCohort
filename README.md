@@ -1,4 +1,4 @@
-# Machine Learning Cohort README
+# Machine Learning Cohort 
 
 Welcome to the Machine Learning Cohort! This README provides an overview of the topics, subtopics, and mini projects covered throughout the duration of the program.
 
@@ -12,12 +12,13 @@ Welcome to the Machine Learning Cohort! This README provides an overview of the 
 ### Days 3-4: Supervised Learning - Regression
 - **Topics**: Introduction to regression
 - **Subtopics**: Linear regression theory and implementation, Polynomial regression, logistic regression
-- **Mini Project**: Predicting Student's Placement
+
 - **Mini Project**: Predicting Student Exam Scores
 
 ### Days 5-6: Supervised Learning - Classification
 - **Topics**: Introduction to classification
 - **Subtopics**: Logistic regression, Decision Trees and Random Forests
+- **Mini Project**: Predicting Student's Placement
 - **Mini Project**: Email Spam Classification
 
 ### Days 7-8: Unsupervised Learning
